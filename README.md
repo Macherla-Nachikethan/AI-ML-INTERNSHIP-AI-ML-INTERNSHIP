@@ -11,4 +11,4 @@ Hints/Mini Guide:
 
 What You'll Learn: Data cleaning, handling nulls, encoding, feature scaling.
 
-Handle missing values using mean/median/imputation makes me feel hard, so I researched and made it by using Google and YouTube tutorials
+Handling missing values using mean/median/imputation makes me feel hard, so I researched and made it by using Google and YouTube tutorials
