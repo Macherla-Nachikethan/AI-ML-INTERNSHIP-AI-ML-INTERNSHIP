@@ -1,4 +1,5 @@
-# AI-ML-INTERNSHIP-AI-ML-INTERNSHIP
+# AI-ML-INTERNSHIP Task 1: Data Cleaning & Preprocessing (Titanic Data SET)
+
 Task 1: Data Cleaning &amp; Preprocessing
 Objective: Learn how to clean and prepare raw data for ML.
 Hints/Mini Guide:
